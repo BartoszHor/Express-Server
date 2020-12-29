@@ -1,0 +1,7 @@
+{
+  "name": "Express2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bartosz Horoba <bartosz.horoba@gmail.com>",
+  "license": "MIT"
+}
